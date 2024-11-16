@@ -1,6 +1,6 @@
 customhost = "myproject-db.crzxyimub6kd.ap-south-1.rds.amazonaws.com"
 customuser = "myprojectadmin"
 custompass = "myproject-password1"
-customdb = "myproject-db"
+customdb = "employee"
 custombucket = "myprojectadd"
 customregion = "ap-south-1"
